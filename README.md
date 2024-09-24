@@ -2,6 +2,7 @@
 ## **Muscle Fiber Cross-Sectional Area (CSA) Segmentation and Analysis Project**
 ## Project under Dr. Mark Holt comparing Manual vs ML based muscle CSA segmentation
 
+
 ## Project Overview
 
 This project focuses on the segmentation and quantification of muscle fiber cross-sectional area (CSA) using manual and machine learning (ML) methods. The goal is to compare the effectiveness of traditional manual segmentation with ML-based segmentation methods, specifically those implemented in the Fiji image processing platform combined with WEKA, a machine learning toolkit. By evaluating both methods, the project aims to assess how ML algorithms can automate and enhance the accuracy of CSA measurements in skeletal muscle fibers.
